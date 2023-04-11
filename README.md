@@ -9,7 +9,8 @@ GPT-powered discord chatbot
 6.  Copy the bot token and replace 'your_discord_bot_token' with your bot token.
 7.    If the token doesn't appear, click "Reset Token" and it'll be there.
 8.  Click on OAuth2, select "bot" from scopes, then select "Send Messages" and "Read Message History" (or just administrator, if you're lazy), and copy paste the generated URL at the bottom into your browser or Discord to invite the bot to your server.
-9.  Run the python file!
+9. Install the necessary dependencies from the requirements.txt file (if you're using VSCode, there should be a "Build environment" button when you open the file, otherwise type 'pip install discord' into powershell).
+10. Run the python file!
 
 PS. If you don't want to talk to the bot in the server, DMing it works too.
 
