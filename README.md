@@ -1,4 +1,4 @@
-# gpt-discord-bot
+# GPT-discord-bot
 GPT-powered discord chatbot
 
 1. Get an OpenAI API key at https://platform.openai.com/account/api-keys.
