@@ -13,4 +13,4 @@ GPT-powered discord chatbot
 
 PS. If you don't want to talk to the bot in the server, DMing it works too.
 
-PS.2 As of 4/10/2023, the bot doesn't have session functionality, meaning it doesn't have any memory of messages aside from the latest one.
+PS.2 As of 4/10/2023, the bot doesn't have a context window, meaning it doesn't have any memory of messages aside from the latest one.
