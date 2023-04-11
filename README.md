@@ -12,3 +12,4 @@ GPT-powered discord chatbot
 9.  Run the python file!
 
 PS. If you don't want to talk to the bot in the server, DMing it works too.
+PS. As of 4/10/2023, the bot doesn't have session capability, meaning it doesn't have any memory of messages aside from the latest one.
